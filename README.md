@@ -24,7 +24,7 @@ pip install openpyxl pandas
 1. Cloná el repositorio o descargá el script:
 
 ```bash
-git clone https://github.com/tuusuario/xlsx_extract.git
+git clone https://github.com/SecurityLayer404/xlsx_extract.git
 cd xlsx_extract
 ```
 
